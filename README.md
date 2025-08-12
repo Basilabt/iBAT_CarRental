@@ -1,7 +1,6 @@
-# 🛍️ iBAT Online Store - Fullstack iOS Application
+# 🚗 iBAT_CarRental - Fullstack iOS Application
 
-<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/cfd55742-59c7-44ca-ab26-c46abc27a0f0" />
-
+<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/b177cfc6-3f81-4ac9-9fc7-97fe9adf1c30" />
 
 [![👨‍💻 Developer](https://img.shields.io/badge/Developer-Basilabt-crimson)](https://github.com/Basilabt)  
 ![🚀 C#](https://img.shields.io/badge/language-C%23-blue)  
@@ -14,67 +13,69 @@
 
 ---
 
-## 📖 About iBAT Project
+## 📖 About iBAT_CarRental Project
 
-Welcome to the **iBAT Online Store** repository — a complete **full-stack iOS shopping app** with a modern user experience and robust backend integration. iBAT empowers users to browse products, manage their carts, place orders, and track purchases — all from a native mobile experience.
+Welcome to the **iBAT_CarRental** repository — a complete **full-stack iOS car rental app** designed for a seamless vehicle booking experience. With iBAT_CarRental, users can explore available cars, make reservations, manage bookings, and complete secure payments — all within a modern and intuitive mobile interface.
 
 This project includes:
 - A **native iOS app** built with **SwiftUI** using **MVVM architecture**.
-- A **secure and scalable backend** built with **C# (.NET)** and **MS SQL Server**.
-- A **RESTful API** for seamless client-server communication.
-- Optimized exclusively for iOS — no web or desktop apps included.
+- A **robust backend** built with **C# (.NET)** and **MS SQL Server**.
+- A **RESTful API** to power real-time booking and availability.
+- Exclusive mobile-first design, built specifically for iOS.
 
 ---
 
 ## ✨ Key Features
 
-- 🛒 **Product Catalog** – Browse products by category with rich details and images.    
-- 📦 **Order Management** – Place orders and track status.  
-- 🔐 **User Authentication** – Register, log in, and manage profiles securely.  
-- 📲 **Modern SwiftUI Interface** – Clean design with responsive layout and animations.  
-- 🔗 **RESTful API Integration** – Fast, real-time data flow between app and backend.  
-- 💾 **MS SQL Server Database** – Handles all product, user, and order data reliably.
+- 🚙 **Car Listings** – Browse available cars with details, images, and pricing.  
+- 📅 **Booking Management** – Reserve cars and track booking history.  
+- 🔐 **User Authentication** – Secure registration, login, and profile management.  
+- 📲 **Modern SwiftUI UI** – Smooth navigation and animations.  
+- 🔗 **RESTful API Integration** – Instant updates between app and backend.  
+- 💾 **MS SQL Server Database** – Stores user, booking, and car inventory data.
+
+---
+
+## 📱 Mobile App Architecture
+For the full iOS mobile sorce code please contact me at baabutaleb@gmail.com
+- Built entirely in **SwiftUI**  
+- Uses **MVVM (Model-View-ViewModel)** architecture  
+- Handles **asynchronous API calls** with error handling  
+- Supports offline access with local caching  
 
 ---
 
 ## 🗄️ Backend Stack
 
-- **C#** with **.NET Web API**
-- **MS SQL Server** for data persistence
-- **RESTful API** for communication with the mobile app
-- Hosted on your preferred cloud/server environment
+- **C#** with **.NET Web API**  
+- **MS SQL Server** for persistent data storage  
+- **RESTful API** for seamless mobile communication  
+- Deployable on preferred cloud/server infrastructure
+  
+<img width="1292" height="828" alt="Image" src="https://github.com/user-attachments/assets/ac676416-f1de-4f01-9516-a5902a985de9" />
 
-<img width="1127" height="703" alt="Image" src="https://github.com/user-attachments/assets/fc600045-bac6-4130-bfbb-086441260713" />
+<img width="1502" height="654" alt="Image" src="https://github.com/user-attachments/assets/7216b98e-e200-4840-a5e3-04f27fcffb82" />
 
-<img width="758" height="740" alt="Image" src="https://github.com/user-attachments/assets/470f96f2-0e8c-4f8f-90e1-0e7aa0acbabc" />
-
----
-
-## 📱 Mobile App Architecture
-
-- Built entirely in **SwiftUI**
-- Uses **MVVM (Model-View-ViewModel)** architecture
-- Handles **asynchronous API calls** with error handling
-- Includes local caching.
+<img width="859" height="492" alt="Image" src="https://github.com/user-attachments/assets/5fc122cf-dc56-4802-9d29-e59f8d7efeac" />
 
 ---
 
 ## 📷 Screenshots
 
 #### Sign Up
-<img width="300" alt="Image" src="https://github.com/user-attachments/assets/6098f8dd-af79-43ac-9cca-e671690de3a6" />
+
 
 #### Sign In
-<img width="300" alt="Image" src="https://github.com/user-attachments/assets/b3c155cf-ead6-466f-a8aa-70087af0a058" />
 
-#### Products 
-<img width="300" alt="Image" src="https://github.com/user-attachments/assets/3030947d-dfe4-48d7-8b9b-776abbda618e" />
 
-#### Orders 
-<img width="300" alt="Image" src="https://github.com/user-attachments/assets/7cd3e243-63e0-4197-a32a-9f179ef48b9e" />
+#### Car Listings
+
+
+#### Booking History
+
 
 #### Profile 
-<img width="300" alt="Image" src="https://github.com/user-attachments/assets/094891dd-5b42-4465-8a87-f08de28b3e2b" />
+
 
 ---
 
