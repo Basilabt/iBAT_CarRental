@@ -1,0 +1,849 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\clsuserdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\controllers\\ibatcarrentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:controllers\\ibatcarrentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\information\\clsupdateinformationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\information\\clsupdateinformationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\information\\clsgetuserinformationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\information\\clsgetuserinformationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\clspersondataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\clsrentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\information\\clsupdateinformationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\information\\clsupdateinformationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\information\\clsgetuserinformationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\information\\clsgetuserinformationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clstransmissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clsuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clspersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clsuserrentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\rent\\clsgetuserrentsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\rent\\clsgetuserrentsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clsrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clsuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clsrentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\clsvehicledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\clsmanufacturedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\clstransmissiontypedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\rent\\clsrentvehiclerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\rent\\clsrentvehiclerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\rent\\clsrentvehicleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\rent\\clsrentvehicleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clspaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clspayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clsmanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clsfueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\ibat_carrental_dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clspaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clsrentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clsvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\cars\\clsgetavailablevehiclesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\cars\\clsgetavailablevehiclesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312984D2-A8EA-4D2E-B319-D894DEC82A9C}|..\\iBAT_CarRental_BusinessAccessLayer\\iBAT_CarRental_BusinessAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_businessaccesslayer\\clsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\clsmodeldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\clsfueltypedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clsvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clsmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clstransmissiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clsfueltypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\dtos\\clsmanufacturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\authentication\\signup\\clssignupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\authentication\\signup\\clssignupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\authentication\\signup\\clssignuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\authentication\\signup\\clssignuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\authentication\\signin\\clssigninerrorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\authentication\\signin\\clssigninerrorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\authentication\\signin\\clssigninresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\authentication\\signin\\clssigninresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\dtos\\authentication\\signin\\clssigninrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:dtos\\authentication\\signin\\clssigninrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099C1D6-0575-4B3C-AE7B-8A523B0D6F63}|..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental_dataaccesslayer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\jwt\\clsjwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:jwt\\clsjwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_carrental\\backend_dotnet\\ibat_carrental\\ibat_carrental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7036052-F400-4CDA-868C-A7A090FB192A}|iBAT_CarRental.csproj|solutionrelative:ibat_carrental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsGetUserInformationResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Information\\clsGetUserInformationResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Information\\clsGetUserInformationResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Information\\clsGetUserInformationResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\Information\\clsGetUserInformationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:53:11.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsGetUserInformationRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Information\\clsGetUserInformationRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Information\\clsGetUserInformationRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Information\\clsGetUserInformationRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\Information\\clsGetUserInformationRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:51:08.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iBATCarRentalController.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\Controllers\\iBATCarRentalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\iBATCarRentalController.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\Controllers\\iBATCarRentalController.cs",
+              "RelativeToolTip": "Controllers\\iBATCarRentalController.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAgwDEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:37:39.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsRentDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsRentDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\clsRentDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsRentDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\clsRentDataAccess.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:44:29.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsPersonDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsPersonDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\clsPersonDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsPersonDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\clsPersonDataAccess.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwIcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:55:58.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsUser.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsUser.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsUser.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwH4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:28:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsPerson.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsPerson.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsPerson.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwFEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:28:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsUserDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsUserDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\clsUserDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsUserDataAccess.cs*",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\clsUserDataAccess.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAIAzwPkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:06:54.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUpdateInformationRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Information\\clsUpdateInformationRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Information\\clsUpdateInformationRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Information\\clsUpdateInformationRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\Information\\clsUpdateInformationRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:07:39.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsUpdateInformationResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Information\\clsUpdateInformationResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Information\\clsUpdateInformationResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Information\\clsUpdateInformationResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\Information\\clsUpdateInformationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:07:54.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsUserRole.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsUserRole.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsUserRole.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsUserRole.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsUserRole.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:27:59.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsUserDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsUserDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsUserDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:07:14.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsPersonDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsPersonDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsPersonDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsPersonDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsPersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:13:12.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsRent.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsRent.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsRent.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsRent.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsRent.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:26:08.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsRentVehicleRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Rent\\clsRentVehicleRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Rent\\clsRentVehicleRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Rent\\clsRentVehicleRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\Rent\\clsRentVehicleRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T22:52:23.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsTransmissionType.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsTransmissionType.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsTransmissionType.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsTransmissionType.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsTransmissionType.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:29:00.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsRentDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsRentDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsRentDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsRentDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsRentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T22:37:41.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsTransmissionTypeDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsTransmissionTypeDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\clsTransmissionTypeDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsTransmissionTypeDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\clsTransmissionTypeDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:45:21.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsVehicleDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsVehicleDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\clsVehicleDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsVehicleDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\clsVehicleDataAccess.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:26:56.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsUserRentDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsUserRentDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsUserRentDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsUserRentDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsUserRentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:28:17.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsGetUserRentsRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Rent\\clsGetUserRentsRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Rent\\clsGetUserRentsRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Rent\\clsGetUserRentsRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\Rent\\clsGetUserRentsRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:51:56.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsManufactureDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsManufactureDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\clsManufactureDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsManufactureDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\clsManufactureDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:50:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsRentVehicleResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Rent\\clsRentVehicleResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Rent\\clsRentVehicleResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Rent\\clsRentVehicleResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\Rent\\clsRentVehicleResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T22:52:40.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsPaymentDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsPaymentDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsPaymentDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsPaymentDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsPaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T22:39:21.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsPayment.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsPayment.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsPayment.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsPayment.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:38:52.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsManufacture.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsManufacture.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsManufacture.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsManufacture.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsManufacture.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:45:16.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsFuelType.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsFuelType.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsFuelType.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsFuelType.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsFuelType.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:07:59.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsGetAvailableVehiclesResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Cars\\clsGetAvailableVehiclesResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Cars\\clsGetAvailableVehiclesResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Cars\\clsGetAvailableVehiclesResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\Cars\\clsGetAvailableVehiclesResponseDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:48:55.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsRentStatus.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsRentStatus.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsRentStatus.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsRentStatus.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsRentStatus.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:22:38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsPaymentMethod.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsPaymentMethod.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsPaymentMethod.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsPaymentMethod.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsPaymentMethod.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:31:08.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "iBAT_CarRental_DataAccessLayer.csproj",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\iBAT_CarRental_DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T21:06:43.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsVehicle.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsVehicle.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsVehicle.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsVehicle.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsVehicle.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowG8AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:21:54.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsFuelTypeDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsFuelTypeDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\clsFuelTypeDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsFuelTypeDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\clsFuelTypeDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:14:01.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "clsModelDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsModelDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\clsModelDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsModelDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\clsModelDataAccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:26:20.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "clsVehicleDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsVehicleDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsVehicleDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsVehicleDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsVehicleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:22:03.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "clsModel.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsModel.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_BusinessAccessLayer\\clsModel.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_BusinessAccessLayer\\clsModel.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_BusinessAccessLayer\\clsModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:04:27.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "clsModelDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsModelDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsModelDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsModelDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsModelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:25:45.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "clsTransmissionTypeDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsTransmissionTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsTransmissionTypeDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsTransmissionTypeDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsTransmissionTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:44:46.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "clsFuelTypeDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsFuelTypeDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsFuelTypeDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsFuelTypeDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsFuelTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:17:16.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "clsSignUpResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignUp\\clsSignUpResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Authentication\\SignUp\\clsSignUpResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignUp\\clsSignUpResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\Authentication\\SignUp\\clsSignUpResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:20:54.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "clsSignUpRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignUp\\clsSignUpRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Authentication\\SignUp\\clsSignUpRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignUp\\clsSignUpRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\Authentication\\SignUp\\clsSignUpRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:20:37.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "clsManufactureDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsManufactureDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsManufactureDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsManufactureDTO.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\DTOs\\clsManufactureDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:39:01.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "clsSignInErrorResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignIn\\clsSignInErrorResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Authentication\\SignIn\\clsSignInErrorResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignIn\\clsSignInErrorResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\Authentication\\SignIn\\clsSignInErrorResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:20:22.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "clsSignInRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignIn\\clsSignInRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Authentication\\SignIn\\clsSignInRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignIn\\clsSignInRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\Authentication\\SignIn\\clsSignInRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:40:41.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "clsSignInResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignIn\\clsSignInResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Authentication\\SignIn\\clsSignInResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\DTOs\\Authentication\\SignIn\\clsSignInResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\Authentication\\SignIn\\clsSignInResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:52:02.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_CarRental_DataAccessLayer\\clsDataAccessSettings.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental_DataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\iBAT_CarRental_DataAccessLayer\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:18:18.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "clsJWTService.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\JWT\\clsJWTService.cs",
+              "RelativeDocumentMoniker": "JWT\\clsJWTService.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\JWT\\clsJWTService.cs",
+              "RelativeToolTip": "JWT\\clsJWTService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:01:00.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:02:47.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T00:11:35.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T21:57:33.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "iBAT_CarRental.csproj",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\iBAT_CarRental.csproj",
+              "RelativeDocumentMoniker": "iBAT_CarRental.csproj",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_CarRental\\Backend_dotNET\\iBAT_CarRental\\iBAT_CarRental.csproj",
+              "RelativeToolTip": "iBAT_CarRental.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T22:40:04.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

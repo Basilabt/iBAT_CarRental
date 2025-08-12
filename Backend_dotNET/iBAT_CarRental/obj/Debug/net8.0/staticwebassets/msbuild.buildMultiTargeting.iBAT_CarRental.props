@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\iBAT_CarRental.props" />
+</Project>
